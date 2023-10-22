@@ -1,2 +1,2 @@
 # hmfurlgo
-huomofa url jump go
+ this is huomofa url jump go system!
